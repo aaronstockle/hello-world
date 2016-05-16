@@ -1,2 +1,4 @@
 # hello-world
-This is a short description of my new repository.
+
+Hi Humans,
+My name is Aaron this is my favorite thing to do.
